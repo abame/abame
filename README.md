@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/albionbame" target="_blank"><img src="https://github.com/abame/abame/blob/master/devcard.svg" width="400" alt="Dev Card"/></a>
+- 🚨 My [blog](https://abame.github.io/)
+- 🌱 Always learning web development
+- 🚀 Staff Software Engineer at [Emma - The Sleep Company](https://team.emma-sleep.com/)
+- 🙉 Hobbies include, DIY, Cycling, Hiking and Camping
+
+<a href="https://app.daily.dev/albionbame"><img src="https://github.com/abame/abame/blob/master/devcard.svg" width="400" alt="Dev Card"/></a>
 <!--
 **abame/abame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
