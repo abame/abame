@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/albionbames"><img src="https://github.com/abame/abame/blob/master/devcard.svg" width="400" alt="Dev Card"/></a>
+<a href="https://app.daily.dev/albionbame" target="_blank"><img src="https://github.com/abame/abame/blob/master/devcard.svg" width="400" alt="Dev Card"/></a>
 <!--
 **abame/abame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
