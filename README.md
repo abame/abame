@@ -9,7 +9,7 @@
 
 - 🚀 Staff Software Engineer at [Emma - The Sleep Company](https://team.emma-sleep.com/)
 - 🌱 Always learning web development
-- 🚨 My blog is https://abame.github.io/
+- 🚨 My blog is https://albionba.me/
 - 📫 How to reach me **albionbame@gmail.com**
 - 🙉 Hobbies include, DIY, Cycling, Hiking and Camping
 
