@@ -28,6 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abame&show_icons=true&locale=en" alt="abame" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abame&" alt="abame" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=abame)](https://git.io/streak-stats)
 
 <p><a href="https://app.daily.dev/albionbame"><img src="devcard.svg" width="400" alt="Dev Card"/></a></p>
